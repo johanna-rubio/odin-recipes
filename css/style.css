@@ -74,6 +74,11 @@ a:hover {
     padding-left: 40%;
 }
 
+#recipe-img {
+    display: block;
+    margin: auto;
+}
+
 .hrmainpage {
     color: #181818;
     padding-top: 0%;
