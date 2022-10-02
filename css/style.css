@@ -2,6 +2,32 @@ h1{
     text-align: center;
 }
 
+p {
+    font-size: 120%; 
+    color: #181818;
+    text-align: justify;
+}
+
+ul {
+    font-size: 120%; 
+    color: #181818;
+}
+
+ol {
+    font-size: 120%; 
+    color: #181818;
+    text-align: justify;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+
 #spanish-omelette {
     max-width: 50%;
     max-height: 50%;
@@ -24,4 +50,39 @@ h1{
     max-height: 40%;
     margin-left: auto;
     margin-right: auto;
+}
+
+#body-index{
+    background-color: #EBC7E8;
+}
+
+#body-spanish-omelette{
+    background-color: #FAF4B7;
+}
+
+#body-english-roast {
+    background-color: #E1FFB1;
+}
+
+#body-ceviche {
+    background-color: #EEF1FF;
+}
+
+#odin-recipes {
+    padding-bottom: 0px;
+    margin-bottom: 0%;
+}
+
+#recipe-list {
+    padding-left: 40%;
+}
+
+.hrmainpage {
+    color: #181818;
+    padding-top: 0%;
+    margin-top: 0%;
+    width: 25%;
+    border-style: double none none none;
+    border-width: 6px;
+    height: 5px;
 }
